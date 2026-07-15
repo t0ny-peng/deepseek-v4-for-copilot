@@ -75,6 +75,10 @@
       {
         "command": "deepseek-copilot.openRequestDumpsFolder",
         "title": "%deepseek-copilot.command.openRequestDumpsFolder%"
+      },
+      {
+        "command": "deepseek-copilot.checkBalance",
+        "title": "%deepseek-copilot.command.checkBalance%"
       }
     ],
     "walkthroughs": [

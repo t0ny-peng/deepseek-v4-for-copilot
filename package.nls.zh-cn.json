@@ -6,6 +6,7 @@
   "deepseek-copilot.command.openSettings": "DeepSeek: 打开设置",
   "deepseek-copilot.command.showLogs": "DeepSeek: 显示日志",
   "deepseek-copilot.command.openRequestDumpsFolder": "DeepSeek: 打开请求 Dump 目录",
+  "deepseek-copilot.command.checkBalance": "DeepSeek: 查询余额",
   "deepseek-copilot.walkthrough.title": "DeepSeek V4 for Copilot Chat",
   "deepseek-copilot.walkthrough.description": "在 Copilot Chat 中配置 DeepSeek V4 模型。",
   "deepseek-copilot.walkthrough.setApiKey.title": "设置你的 DeepSeek API Key",
