@@ -31,6 +31,9 @@ const zh: Translations = {
 	'balance.unavailable': 'DeepSeek 账号不可用或未返回余额信息。',
 	'balance.result': 'DeepSeek 余额：{0}',
 	'balance.entry': '{0}：{1}（充值 {2}，赠送 {3}）',
+	'balance.statusBar.text': '$(pulse) {0}{1}',
+	'balance.display.enabled': '已启用 DeepSeek 余额显示。',
+	'balance.display.disabled': '已禁用 DeepSeek 余额显示。',
 
 	// API Key
 	'auth.apiKeyRequiredDetail': '请先配置 API Key',
@@ -227,6 +230,9 @@ const en: Translations = {
 	'balance.unavailable': 'DeepSeek account is unavailable or returned no balance info.',
 	'balance.result': 'DeepSeek Balance: {0}',
 	'balance.entry': '{0}: {1} (paid: {2}, free: {3})',
+	'balance.statusBar.text': '$(pulse) {0}{1}',
+	'balance.display.enabled': 'DeepSeek balance display enabled.',
+	'balance.display.disabled': 'DeepSeek balance display disabled.',
 
 	// API Key
 	'auth.apiKeyRequiredDetail': 'Please run DeepSeek: Set API Key to configure.',
